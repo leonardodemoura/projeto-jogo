@@ -86,3 +86,10 @@ h2 {
     font-size: 32px;
     font-weight: 400;
 }
+
+.imagem_cancelamento {
+    border-radius: 20px;
+    border: 2px solid blue;
+    width: 88vw;
+    height: 96vh;
+}
